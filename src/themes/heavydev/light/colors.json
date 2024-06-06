@@ -1,0 +1,31 @@
+{
+  "font": {
+    "primary": "rgba(0, 0, 0, 0.87)",
+    "secondary": "rgba(0, 0, 0, 0.6)",
+    "disabled": "rgba(0, 0, 0, 0.38)"
+  },
+  "background": {
+    "primary": "#fff",
+    "secondary": "#f5f5f5",
+    "tertiary": "#cfcfcf"
+  },
+  "action": {
+    "active": "rgba(0, 0, 0, 0.54)",
+    "hover": "rgba(0, 0, 0, 0.54)",
+    "selected": "rgba(0, 0, 0, 0.08)",
+    "disabled": "rgba(0, 0, 0, 0.26)",
+    "disabledBackground": "rgba(0, 0, 0, 0.12)"
+  },
+  "divider": "rgba(0, 0, 0, 0.12)",
+  "links": {
+    "background": {
+      "primary": "transparent",
+      "hover": "#f0f0f0"
+    }
+  },
+  "buttons": {
+    "background": {
+      "primary": "#888888"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "boxShadow": {
+    "offsetX": "0px",
+    "offsetY": "0px",
+    "blurRadius": "1rem"
+  }
+}
